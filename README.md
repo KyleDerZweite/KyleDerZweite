@@ -1,39 +1,82 @@
-<h1 align="center">Hi 👋, I'm Kyle</h1>
+# Hi, I'm Kyle
 
-- 🔭 I’m currently working on **[vauxl](https://github.com/VauxlNet/vauxl)**.
-- 🌱 I’m currently learning **Rust** and **Machine Learning**.
+- **Working on:** [vauxl](https://github.com/VauxlNet/vauxl)
+- **Learning:** Rust & Machine Learning
 
-<h2 align="center">🧠 Skill & Tools</h2>
+---
 
-<strong>Programming Languages</strong>
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
-</p>
-<strong>Web Development</strong>
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-</p>
-<strong>DevOps & Tools</strong>
-<p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </p>
-<strong>Databases</strong>
-<p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> </p>
-<strong>Data Science & AI</strong>
-<p> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/> </p>
-<strong>Embedded Systems & IoT</strong>
-<p> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/> </p>
-<strong>Other Tools</strong>
-<p> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </p>
+## Technical Skillset
 
-<br />
+<details>
+  <summary><strong>Programming Languages</strong></summary>
+  <br />
+  <ul>
+    <li>Python</li>
+    <li>Java</li>
+    <li>JavaScript</li>
+    <li>TypeScript</li>
+    <li>Rust</li>
+  </ul>
+</details>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KyleDerZweite&layout=compact&theme=radical)
+<details>
+  <summary><strong>Databases</strong></summary>
+  <br />
+  <ul>
+    <li>PostgreSQL</li>
+    <li>MySQL</li>
+    <li>MongoDB</li>
+    <li>SQLite</li>
+  </ul>
+</details>
 
+<details>
+  <summary><strong>Web Development</strong></summary>
+  <br />
+  <ul>
+    <li>Node.js</li>
+    <li>Flask</li>
+    <li>Nginx</li>
+    <li>Tailwind CSS</li>
+  </ul>
+</details>
 
+<details>
+  <summary><strong>Data Science & AI</strong></summary>
+  <br />
+  <ul>
+    <li>PyTorch</li>
+    <li>TensorFlow</li>
+    <li>Pandas</li>
+    <li>OpenCV</li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>DevOps & Tools</strong></summary>
+  <br />
+  <ul>
+    <li>Docker</li>
+    <li>Kubernetes</li>
+    <li>Grafana</li>
+    <li>Git</li>
+    <li>Postman</li>
+    <li>Linux</li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>Platforms & Other</strong></summary>
+  <br />
+  <ul>
+    <li>Android</li>
+    <li>Arduino</li>
+    <li>MATLAB</li>
+  </ul>
+</details>
+
+---
+
+## GitHub Statistics
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KyleDerZweite&layout=compact&theme=transparent&hide_border=true)
