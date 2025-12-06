@@ -1,79 +1,12 @@
 # Hi, I'm Kyle
 
-- **Working on:** [vauxl](https://github.com/VauxlNet/vauxl)
-- **Learning:** Rust & Machine Learning
+![Current Status](https://img.shields.io/badge/Current_Focus-Optimizing_Bogo_Sort-critical?style=flat-square&logo=python&logoColor=white)
+![Portfolio Status](https://img.shields.io/badge/Portfolio-Under_Construction-yellow?style=flat-square)
 
----
+> "Currently asking an AI how to compile Bogo Sort into C because I don't have time to wait for O(N!), but I have time to configure a build pipeline."
 
-## Technical Skillset
-
-<details>
-  <summary><strong>Programming Languages</strong></summary>
-  <br />
-  <ul>
-    <li>Python</li>
-    <li>Java</li>
-    <li>JavaScript</li>
-    <li>TypeScript</li>
-    <li>Rust</li>
-  </ul>
-</details>
-
-<details>
-  <summary><strong>Databases</strong></summary>
-  <br />
-  <ul>
-    <li>PostgreSQL</li>
-    <li>MySQL</li>
-    <li>MongoDB</li>
-    <li>SQLite</li>
-  </ul>
-</details>
-
-<details>
-  <summary><strong>Web Development</strong></summary>
-  <br />
-  <ul>
-    <li>Node.js</li>
-    <li>Flask</li>
-    <li>Nginx</li>
-    <li>Tailwind CSS</li>
-  </ul>
-</details>
-
-<details>
-  <summary><strong>Data Science & AI</strong></summary>
-  <br />
-  <ul>
-    <li>PyTorch</li>
-    <li>TensorFlow</li>
-    <li>Pandas</li>
-    <li>OpenCV</li>
-  </ul>
-</details>
-
-<details>
-  <summary><strong>DevOps & Tools</strong></summary>
-  <br />
-  <ul>
-    <li>Docker</li>
-    <li>Kubernetes</li>
-    <li>Grafana</li>
-    <li>Git</li>
-    <li>Postman</li>
-    <li>Linux</li>
-  </ul>
-</details>
-
-<details>
-  <summary><strong>Platforms & Other</strong></summary>
-  <br />
-  <ul>
-    <li>Android</li>
-    <li>Arduino</li>
-    <li>MATLAB</li>
-  </ul>
-</details>
+- **Working on:** [advent-of-code](https://github.com/KyleDerZweite/advent-of-code) & [vauxl](https://github.com/VauxlNet/vauxl)
+- **Learning:** Rust & Machine Learning (+ different more languages)
 
 ---
 
