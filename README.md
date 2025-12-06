@@ -12,4 +12,17 @@
 
 ## GitHub Statistics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KyleDerZweite&layout=compact&theme=transparent&hide_border=true)
+<table>
+  <tr>
+    <td width="60%">
+      <img src="https://streak-stats.demolab.com?user=KyleDerZweite&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+    </td>
+    <td width="40%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KyleDerZweite&theme=radical" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+## GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=KyleDerZweite&theme=radical&no-frame=true&no-bg=true&margin-w=4)
