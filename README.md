@@ -5,7 +5,8 @@
 
 > "Currently asking an AI how to compile Bogo Sort into C because I don't have time to wait for O(N!), but I have time to configure a build pipeline."
 
-- **Working on:** [advent-of-code](https://github.com/KyleDerZweite/advent-of-code) & [vauxl](https://github.com/VauxlNet/vauxl)
+- **Working on:** - **Primary Focus:** [dno-crawler](https://github.com/KyleDerZweite/dno-crawler)
+  - **Also developing:** [hatchery](https://github.com/KyleDerZweite/hatchery), [spellbook](https://github.com/KyleDerZweite/spellbook), & [vauxl](https://github.com/VauxlNet/vauxl)
 - **Learning:** Rust & Machine Learning (+ different more languages)
 
 ---
@@ -13,14 +14,14 @@
 ## GitHub Statistics
 
 <table>
-  <tr>
-    <td width="60%">
-      <img src="https://streak-stats.demolab.com?user=KyleDerZweite&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-    </td>
-    <td width="40%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KyleDerZweite&theme=radical" alt="Top Languages" />
-    </td>
-  </tr>
+  <tr>
+    <td width="60%">
+      <img src="https://streak-stats.demolab.com?user=KyleDerZweite&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+    </td>
+    <td width="40%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KyleDerZweite&theme=radical" alt="Top Languages" />
+    </td>
+  </tr>
 </table>
 
 ## GitHub Trophies
