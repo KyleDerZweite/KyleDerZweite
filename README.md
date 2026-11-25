@@ -1,8 +1,7 @@
 # Hi, I'm Kyle
 
-![Current Status](https://img.shields.io/badge/Current_Focus-Optimizing_Bogo_Sort-critical?style=flat-square&logo=python&logoColor=white)
-![Portfolio Status](https://img.shields.io/badge/Portfolio-Under_Construction-yellow?style=flat-square)
+> "Spending 4 hours automating a 5-minute problem — and then writing a CLI for it."
 
-> "Currently asking an AI how to compile Bogo Sort into C because I don't have time to wait for O(N!), but I have time to configure a build pipeline."
-
-- **Learning:** Rust & Machine Learning (+ different more languages)
+- **Stack:** Python, Go, Rust
+- **Into:** self-hosted tools, CLIs, weird file formats & occasional game dev
+- **Currently:** studying Energy Informatics @ Hochschule Ruhr West and overengineering side projects
